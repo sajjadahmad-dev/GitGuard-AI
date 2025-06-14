@@ -16,11 +16,10 @@ GitGuard-AI is a comprehensive toolkit for detecting and managing secrets in cod
 ```
 
 - **trae-plugin/**
-  - **gitguard/**: Core logic for secret detection and MCP (Modular Command Platform) integration. [See trae-plugin/gitguard/README.md](trae-plugin/gitguard/README.md)
-  - **tests/**: Integration and unit tests for API and plugin functionality. [See trae-plugin/tests/README.md](trae-plugin/tests/README.md)
+  - **gitguard/**: Core logic for secret detection and MCP (Modular Command Platform) integration. See [trae-plugin/README.md](trae-plugin/README.md)
 - **landing_page/**
-  - **frontend/**: Modern landing page for GitGuard-AI, built with [v0.dev](https://v0.dev). [See landing_page/frontend/README.md](landing_page/frontend/README.md) for deployment and customization details.
-  - **backend/**: Backend logic for the landing page (API endpoints, detection logic).
+  - **frontend/**: Modern landing page for GitGuard-AI, built with [v0.dev](https://v0.dev). See [landing_page/frontend/README.md](landing_page/frontend/README.md) for deployment and customization details.
+  - **backend/**: Backend logic for the landing page (API endpoints, detection logic). See [landing_page/backend/README.md](landing_page/backend/README.md)
 - **docs/**: Project documentation and guides.
 
 ## Getting Started
