@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.db
+*.log
+*.sqlite3
+.env
+.git/
+.gitignore
+.idea/
+.vscode/
+node_modules/
+*.ipynb
+*.tar.gz
+*.whl
+*.egg-info/
+*.pdf
+*.zip
+*.exe
+*.bak
+*.swp
+*.tmp
+*uv.lock
+
+# Exclude tests if not needed in container
+tests/
