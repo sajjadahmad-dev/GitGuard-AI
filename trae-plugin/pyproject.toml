@@ -1,7 +1,7 @@
 [project]
 name = "gitguard-ai"
 version = "0.1.0"
-description = "Add your description here"
+description = "A comprehensive Trae IDE plug-in for detecting and managing secrets in codebases"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
