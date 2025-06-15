@@ -13,6 +13,8 @@ GitGuard-AI is a comprehensive toolkit for detecting and managing secrets in cod
 ├── trae-plugin/
 │   ├── gitguard/
 │   └── tests/
+        test.py
+        
 ```
 
 - **trae-plugin/**
